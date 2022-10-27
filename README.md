@@ -15,7 +15,7 @@ to it. The opposing element's value is then lowered by half the given value. The
     2. Citizens awaiting an on-time 2nd dose.
     3. Citizens not yet vaccinated.
 8. **Castle Gatekeeper:** A _Rá-Tim-Bum_ (Brazilian TV series) themed program. The user is prompted a password to enter a castle. The password is comprised of numbers and is then evaluated whether it can be sorted in ascending order by "rotating" it or not. The "rotation" means, e.g., turning _a b c d e_ into _b c d e a_. If the sequence can be sorted this way, the castle gatekeeper opens the castle gates. If not, it is then said to be invalid.
-9. **Knapsack Problem:** A simplified version of the infamous _Knapsack Problem_. The user is supposed to be soon going on a trip.
+9. **Knapsack Problem:** A simplified version of the infamous _Knapsack Problem_. The user is supposed to be soon going on a trip and is packing a knapsack. The user first informs the capacity of the knapsack and the number of objets they intend to take to the trip
 10. ****
 11. ****
 12. ****
