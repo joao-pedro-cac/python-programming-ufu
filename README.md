@@ -2,7 +2,7 @@
 # Python Codes (EN)
 
 This repository contains 10 Python programs created in my freshman year at the _Universidade Federal de Uberlândia_ (Federal University of Uberlândia).
-Each code solves 1 out of 10 problems given to us students.
+Each one solves 1 out of 10 problems given to us students.
 
 PS.: The algorithms were mainly written in Portuguese.
 
@@ -15,7 +15,7 @@ to it. The opposing element's value is then lowered by half the given value. The
     2. Citizens awaiting an on-time 2nd dose.
     3. Citizens not yet vaccinated.
 - `porteiro-castelo.py`: A _Rá-Tim-Bum_ (Brazilian TV series) themed program. The user is prompted a password to enter a castle. The password is a sequence of numbers and is then evaluated whether it can be sorted in ascending order by "rotating" it or not. The "rotation" means, e.g., turning **_a b c d e_** into **_b c d e a_**. If the sequence can be sorted this way, the castle gatekeeper opens the castle gates. If not, it is then said to be invalid.
-- `problema-mochila.py`: A simplified version of the infamous _Knapsack Problem_. The user is supposed to be soon going on a trip and is packing a knapsack. They first inform the capacity of the knapsack and the number of objects they intend to take to the trip. The program then asks for each item's weight and an arbitrary value based on importance. After so, the algorithm fills the knapsack as much as possible with the most valuable items by weight. Finally, it displays the knapsack's net value and weight.
+- `problema-mochila.py`: A simplified version of the infamous _Knapsack Problem_. The user is supposed to be soon travelling and must pack a knapsack. They first inform the capacity of the bag and the number of objects they intend to take to the trip. The program then asks for each item's weight and an arbitrary value based on importance. After so, the algorithm fills the knapsack as much as possible with the most valuable items by weight. Finally, it displays the knapsack's net value and weight.
 - `sentido-vida.py`: A code about DNA and complementary base pairing. The user is prompted a DNA string and a primer, both written as nitrogenous bases. The code then displays the locations in the DNA string where the primer can be paired with. If there are no locations, the program outputs a _no pairing locations_ message.
 - `similaridade-maxima.py`: A game about similarity. The player inputs a table as an _n x n_ matrix and then an _m x m_ matrix (_m_ < _n_). Both matrices are made of numbers. The code then takes the most similar _m x m_ submatrix of the table to the _m x m_ matrix input and outputs its position in the _n x n_ table and similarity percentage.
 - `batalha-naval.py`: A battleship-like game. The user first inputs a _10 x 10_ grid of uppercase letters and periods (.). The letters are ships, whereas periods indicate empty water squares. The player is then prompted a hit guess _n_ times. Each guess is composed of a row (A to J) and a column (1 to 10). At last, the algorithm takes each guess and outputs whether it hits (or sinks) a ship or lands on water.
