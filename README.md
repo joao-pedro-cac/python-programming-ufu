@@ -1,5 +1,5 @@
 
-# Python Codes (EN)
+# Python Codes
 
 This repository contains 10 Python programs created in my freshman year at the _Universidade Federal de Uberlândia_ (Federal University of Uberlândia).
 Each one solves 1 out of 10 problems given to us students.
