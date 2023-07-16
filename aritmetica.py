@@ -1,5 +1,4 @@
-#Joao Pedro Cavalcante Albuquerque Costa
-#12121ECP021
+# Performa operações aritméticas entre dois números
 
 
 #Entrada do usuario
