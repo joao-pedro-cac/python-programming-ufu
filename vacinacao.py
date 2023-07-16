@@ -1,5 +1,10 @@
-# Joao Pedro Cavalcante Albuquerque Costa
-# 12121ECP021
+# Programa de distribuição mensal de vacinas.
+# O usuário informa uma quantidade de meses e o número de vacinas fornecidos a cada mês.
+# Cada lote de vacinas é distribuído para a população seguindo uma certa prioridade:
+#   1. Cidadãos aguardando uma segunda dose atrasada
+#   2. Cidadãos aguardado uma segunda dose no prazo
+#   3. Cidadãos ainda não vacinados
+# Ao fim do programa, um relatório de vacinação é exibido.
 
 
 # Funcao Principal
