@@ -1,5 +1,7 @@
-# Joao Pedro Cavalcante Albuquerque Costa
-# 12121ECP021
+# Jogo de "Avatar: A Lenda de Aang" sobre treinamento de manipulação elemental.
+# O usuário constantemente informa um elemento e atribui-lhe valor arbitrário, e o elemento oposto tem seu número subtraído pela metade do valor informado.
+# Os pares de elementos opostos são ÁGUA / FOGO e TERRA / AR.
+# Ao informar 'X' como elemento, o programa se encerra, mostrando os resultados numéricos finais de cada elemento.
 
 
 # Inicializacao das variaveis
