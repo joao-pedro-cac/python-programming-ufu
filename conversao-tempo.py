@@ -1,5 +1,4 @@
-# Joao Pedro Cavalcante Albuquerque Costa
-# 12121ECP021
+# Converte segundos em dias, horas, minutos e segundos
 
 
 # Entrada do usuario
