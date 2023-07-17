@@ -1,10 +1,10 @@
-# Programa de distribuição mensal de vacinas.
-# O usuário informa uma quantidade de meses e o número de vacinas fornecidos a cada mês.
-# Cada lote de vacinas é distribuído para a população seguindo uma certa prioridade:
-#   1. Cidadãos aguardando uma segunda dose atrasada
-#   2. Cidadãos aguardado uma segunda dose no prazo
-#   3. Cidadãos ainda não vacinados
-# Ao fim do programa, um relatório de vacinação é exibido.
+# Programa de distribuicao mensal de vacinas.
+# O usuario informa uma quantidade de meses e o numero de vacinas fornecidos a cada mes.
+# Cada lote de vacinas eh distribuido para a populacao seguindo uma prioridade:
+#   1. Cidadaos aguardando uma segunda dose atrasada
+#   2. Cidadaos aguardado uma segunda dose no prazo
+#   3. Cidadaos ainda nao vacinados
+# Ao fim do programa, um relatorio de vacinacao eh exibido.
 
 
 # Funcao Principal
