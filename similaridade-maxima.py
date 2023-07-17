@@ -1,6 +1,6 @@
 # Jogo de similaridade.
-# O usuario informa duas matrizes quadradas de dimensoes 'n' e 'm' (m < n).
-# O algoritmo busca a submatriz (de dimensao 'm') da matriz maior que mais se assemelha a matriz menor.
+# O usuario informa uma matriz 'n x n' e outra 'm x m' (m < n), ambas compostas exclusivamente por 0s e 1s.
+# O algoritmo busca a submatriz 'm x m' da matriz maior que mais se assemelha a matriz menor.
 # Ao fim, sua posicao na matriz maior e seu grau de similaridade com a matriz menor sao apresentados.
 
 
