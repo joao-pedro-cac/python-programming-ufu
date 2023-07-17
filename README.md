@@ -3,7 +3,7 @@
 
 Este repositório contém 10 programas em Python exigidos aos estudantes pela Universidade Federal de Uberlândia (UFU).
 
-OBS: Os algoritmos se encontram predominantemente em português.
+**OBS:** Os algoritmos se encontram predominantemente em português.
 
 - `aritmetica.py`: Operações aritméticas.
 - `conversao-tempo.py`: Conversão de tempo para um formato mais conveniente.
