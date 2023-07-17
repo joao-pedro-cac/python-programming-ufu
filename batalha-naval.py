@@ -1,5 +1,9 @@
-# Joao Pedro Cavalcante Albuquerque Costa
-# 12121ECP021
+# Jogo de batalha naval.
+# O usuario constroi um tabuleiro quadrado '10 x 10' como uma tabela de letras maiusculas e pontos finais ('.').
+# As letras indicam navios, enquanto que os pontos representam casas vazias com agua.
+# O jogador entao informa varios palpites de acerto, compostos por uma fileira ('A' ate 'J') e uma coluna (1 ate 10).
+# Finalmente, o programa coleta os palpites e informa se o tiro errou, acertou ou afundou um navio.
+
 
 # Funcao principal
 def main():
