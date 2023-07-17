@@ -1,5 +1,12 @@
-# Joao Pedro Cavalcante Albuquerque Costa
-# 12121ECP021
+# Algoritmo de contaminacao de noticias falsas.
+# O usuario informa uma matriz quadrada populacional composta por numeros (0 ate 9), cerquilhas ('#') e pontos finais ('.').
+#     - Os numeros retratam pessoas perigosas que espalham noticias falsas para as quatro direcoes cardiais. Seus valores representam o alcance da propagacao em cada direcao.
+#     - As cerquilhas representam pessoas conscientes que identificam noticias falsas e interceptam-nas, encerrando sua difusao direcional.
+#     - Os pontos finais sao regioes sem pessoas, mas nao impedem o fluxo de noticias falsas.
+# Em seguida, o usuario escreve um par de coordenadas numericas.
+# O algoritmo espalha uma noticia falsa na regiao das coordenadas fornecidas, iniciando uma propagacao recursiva de noticias falsas ao longo da matriz populacional.
+# Sempre que uma pessoa perigosa recebe uma noticia falsa, ela a divulga e torna-se um 'X' na matriz.
+# Ao final das propagacoes, o programa exibe a matriz populacional alterada.
 
 
 # Funcao principal
