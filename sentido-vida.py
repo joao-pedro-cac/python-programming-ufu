@@ -1,5 +1,6 @@
-# Joao Pedro Cavalcante Albuquerque Costa
-# 12121ECP021
+# Algoritmo de verificacao de paridade em DNA.
+# O usuario informa uma fita de DNA e uma fita primer, ambas como sequencias de letras representando bases nitrogenadas.
+# O computador entao informa os locais em que eh possivel parear ambas as fitas segundo a complementaridade das bases.
 
 
 # Funcao principal
