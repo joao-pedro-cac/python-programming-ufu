@@ -1,5 +1,8 @@
-# Joao Pedro Cavalcante Albuquerque Costa
-# 12121ECP021
+# Versao simplificada do infame "Problema da Mochila".
+# O programa supoe que o usuario vai viajar em breve e necessita preecher uma mochila.
+# Primeiramente, informa-se a capacidade da mochila e a quantidade de objetos que deseja-se levar.
+# Em seguida, o algoritmo pergunta pelo peso e pela importancia de cada objeto. A importancia eh dada por um valor arbitrario.
+# Ao termino da execucao, o peso e valor totais da mochila sao anunciados.
 
 
 # Funcao Principal
