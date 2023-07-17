@@ -1,4 +1,4 @@
-# Performa operações aritméticas entre dois números
+# Operacoes aritmeticas entre dois numeros
 
 
 #Entrada do usuario
