@@ -1,5 +1,7 @@
-# Joao Pedro Cavalcante Albuquerque Costa
-# 12121ECP021
+# Jogo de similaridade.
+# O usuario informa duas matrizes quadradas de dimensoes 'n' e 'm' (m < n).
+# O algoritmo busca a submatriz (de dimensao 'm') da matriz maior que mais se assemelha a matriz menor.
+# Ao fim, sua posicao na matriz maior e seu grau de similaridade com a matriz menor sao apresentados.
 
 
 # Funcao principal
