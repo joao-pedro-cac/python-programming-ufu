@@ -1,5 +1,7 @@
-# Joao Pedro Cavalcante Albuquerque Costa
-# 12121ECP021
+# Algoritmo de verificacao de senhas sobre a serie infantil "Castelo Ra-Tim-Bum".
+# O usuario informa uma senha composta por numeros separados por espacos.
+# Em seguida, o programa verifica se eh possivel ordenar os valores permutando-os de maneira similar a uma rotacao.
+# Por fim, informa-se se a senha atende a tal verificacao.
 
 
 def main():
